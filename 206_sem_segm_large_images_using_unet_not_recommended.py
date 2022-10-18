@@ -2,7 +2,7 @@
 
 """
 Applying trained model to large images. Not recommended, this code is intended for
-educational purposes only so we can see how we can get crappy results if we are not careful.
+educational purposes only so we can see how we can get crappy results(糟糕的结果 ) if we are not careful.
 
 """
 
